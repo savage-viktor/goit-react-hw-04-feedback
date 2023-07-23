@@ -2,7 +2,6 @@ import Section from "./Section/Section";
 import Statistics from "./Statistics/Statistics";
 import FeedbackOptions from "./FeedbackOptions/FeedbackOptions";
 import Notification from "./Notification/Notification";
-
 import { Component } from "react";
 
 class App extends Component {
